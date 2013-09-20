@@ -1,0 +1,13 @@
+[
+{
+  "modid": "decorativeblocks",
+  "name": "Decorative Blocks",
+  "description": "Adds lots of decorative blocks + other stuff to Minecraft, oh YEAAAH!",
+  "version": "1.3",
+  "mcversion": "1.5.2",
+  "url": "http://www.pecee.dk/",
+  "updateUrl": "",
+  "authors": ["Simon Sessingø"],  
+  "dependencies": []
+}
+]
